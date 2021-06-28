@@ -95,7 +95,7 @@
   
   * GET request
 
-  <img src="postman_testing_images\GET_request_to_api-categories.png">
+  <img src="postman_testing_images\Get_request_to_api-categories.png">
 
   * POST request
   
@@ -217,7 +217,7 @@
   
   * GET request
 
-  <img src="postman_testing_images\Get_request_to_api-products.png">
+  <img src="postman_testing_images\GET_request_to_api-products.png">
 
   * POST request
   
