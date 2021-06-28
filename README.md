@@ -99,7 +99,7 @@
 
   * POST request
   
-  ![Post_request_to_api-categories](postman_testing_images\Post_request_to_api-categories.png)
+  <img src="postman_testing_images\Post_request_to_api-categories.png">
 
 **Show Category**
 ----
@@ -144,15 +144,15 @@
   
   * GET request to `api/categories/1`
 
-  ![Get_request_to_api-categories-1](postman_testing_images\Get_request_to_api-categories-1.png)
+  <img src="postman_testing_images\Get_request_to_api-categories-1.png">
 
   * PUT request to `api/categories/1`
   
-  ![PUT_request_to_api-categories-1](postman_testing_images\PUT_request_to_api-categories-1.png)
+  <img src="postman_testing_images\PUT_request_to_api-categories-1.png">
 
   * DELETE request to `api/categories/1`
   
-  ![DELETE_request_to_api-categories-1](postman_testing_images\DELETE_request_to_api-categories-1.png)
+  <img src="postman_testing_images\DELETE_request_to_api-categories-1.png">
 
 ---
 **Show All Products**
@@ -217,11 +217,11 @@
   
   * GET request
 
-  ![Get_request_to_api-products](postman_testing_images\Get_request_to_api-products.png)
+  <img src="postman_testing_images\Get_request_to_api-products.png">
 
   * POST request
   
-  ![Post_request_to_api-products](postman_testing_images\POST_request_to_api-products.png)
+  <img src="postman_testing_images\POST_request_to_api-products.png">
 
 **Show Product**
 ----
@@ -274,19 +274,19 @@
   
   * GET request to `api/products/1`
 
-  ![GET_request_to_api-products-1](postman_testing_images\GET_request_to_api-products-1.png)
+  <img src="postman_testing_images\GET_request_to_api-products-1.png">
 
   * PUT request to `api/products/1`
   
-  ![PUT_request_to_api-products-1](postman_testing_images\PUT_request_to_api-products-1.png)
+  <img src="postman_testing_images\PUT_request_to_api-products-1.png">
 
   * DELETE request to `api/products/1`
   
-  ![DELETE_request_to_api-products-1](postman_testing_images\DELETE_request_to_api-products-1.png)
+  <img src="postman_testing_images\DELETE_request_to_api-products-1.png">
 
   * After Deleting the objects GET request to `api/products/`
 
-  ![after_Delete_GET_request_to_api-products](postman_testing_images\after_Delete_GET_request_to_api-products.png)
+  <img src="postman_testing_images\after_Delete_GET_request_to_api-products.png">
 
 
 * **Tasks accomplished in API:**
