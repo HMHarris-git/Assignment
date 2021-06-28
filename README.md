@@ -95,7 +95,7 @@
   
   * GET request
 
-  ![Get_request_to_api-categories](postman_testing_images\Get_request_to_api-categories.png)
+  <img src="postman_testing_images\Get_request_to_api-categories.png">
 
   * POST request
   
